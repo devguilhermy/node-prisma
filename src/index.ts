@@ -17,4 +17,4 @@ app.listen(3333, () => {
 
 app.use('/', mainRouter);
 
-export { app, prisma };
+export { prisma };
